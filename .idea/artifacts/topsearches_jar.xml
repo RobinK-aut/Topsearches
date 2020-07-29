@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="topsearches:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/topsearches_jar</output-path>
+    <root id="archive" name="topsearches.jar">
+      <element id="module-output" name="topsearches" />
+    </root>
+  </artifact>
+</component>
